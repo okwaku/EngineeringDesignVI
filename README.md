@@ -16,7 +16,7 @@
 - MatLab/ Omnet++ 
 - Solidworks/CAD
 ---  
-> MyWork
+> C++ 
 
 `#include iostream`
 
