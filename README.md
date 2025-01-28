@@ -1,18 +1,20 @@
  # CPE 322 Engineering  
 ## Design IV Repo
 *By Owusu Kwaku*  
+>MyBackground
 
 **Ordered List**
-1. First item
-2. Second item
-3. Third item
+1. 3/4 Computer Enginner 
+2. 1st generation to go to college  
+3. Live in Union NJ 
+>Skills
 
 **Unordered List**
-- First item
-- Second item
-- Third item 
+- C++/Python
+- MatLab/ Omnet++ 
+- Solidworks/CAD
 ---  
 > MyWork
 `code`  
 [Linkedin](https://www.linkedin.com/in/samuel-kwaku-179732292/) 
-![Owusu Samuel Kwaku](image.jpg)
+![Owusu Samuel Kwaku](ToneyBelony.jpg)
