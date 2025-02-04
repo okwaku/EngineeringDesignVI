@@ -9,7 +9,7 @@
 **My Experience**
 1. 3/4 Computer Enginner 
 2. 1st generation to go to college  
-3. Live in Union NJ 
+3. Live in Union, NJ 
 
 **Skills**
 - C++/Python
