@@ -3,7 +3,7 @@
 *By Owusu Kwaku*  
 >MyBackground
 
-**Favorite Place To Eat**
+**Favorite Place to Eat**
 ![Owusu Samuel Kwaku](TonyBelony.jpg)
 
 **My Experience**
