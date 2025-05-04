@@ -7,4 +7,8 @@
 
 >Half adder test bench code  
 
+![Owusu Samuel Kwaku](half_adder_test.png) 
+
 >Half adder test gtkwave 
+
+![Owusu Samuel Kwaku](half_adder_gtk.png) 
