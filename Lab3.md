@@ -30,6 +30,17 @@
 
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/4854508f-d2b5-49c4-9122-bfaafd36388a" />  
 
+**cpu.py**
+
+<img width="672" alt="image" src="https://github.com/user-attachments/assets/4c09cb3e-bfce-4a57-bd89-ab380646c2ee" />
+
+
+**battery.py** 
+
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/a2abcdb7-7945-434c-bf8f-3e6c47b5f9cb" />
+
+
 **Top 10 Words** 
 
 <img width="860" alt="image" src="https://github.com/user-attachments/assets/a339a16a-17a6-4c64-8c64-4caf44d3f61a" /> 
