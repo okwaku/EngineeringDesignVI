@@ -28,10 +28,23 @@
 **Opened another terminal to mine a new block** 
 
 
+
+
+
+
+
 <img width="636" alt="image" src="https://github.com/user-attachments/assets/1667466a-bc97-451a-a76c-5acfd24f6836" />
 
 
+
+
+
+
 **Running the Python Blockchain App** 
+
+
+
+
 
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/16e7cf97-7655-48fd-8df0-810207e922cb" />
